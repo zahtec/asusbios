@@ -21,6 +21,4 @@ As you might notice, the table of contents includes every tab/menu, even those t
 - [🧰 Tool](#-tool)
 - [❌ Exit](#-exit)
 
----
-
 ## ⚙️ Main
