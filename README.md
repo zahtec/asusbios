@@ -2,7 +2,7 @@
 
 ### ⚠️ PLEASE READ FIRST ⚠️
 
-The UEFI BIOS settings for the motherboard I have used for this may be different than some others, if you would like me to include a setting I don't have included or correct any false information, please submit a new issue. Also, your BIOS version may not be updated or may be newer than this readme was last updated for, please check the BIOS version by the title to your own. Here's how:
+The UEFI BIOS settings for the motherboard I have used for this may be different than some others, if you would like me to include a setting I don't have included, correct any false information, or update this readme to a newer BIOS version, please submit a new issue. Also, your BIOS version may not be updated or may be newer than this readme was last updated for, please check the BIOS version by the title to your own. Here's how:
 
 - Make sure your on the "Main" tab/menu
 - Right at the top, under "BIOS Information," there should be your BIOS Version
