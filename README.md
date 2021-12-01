@@ -13,12 +13,14 @@ As you might notice, the table of contents includes every tab/menu, even those t
 
 ### 📕 Contents
 
-- [⚙️ Main](#-main)
+- [⚙️ Main](#%EF%B8%8F-main)
 - [🔧 Ai/Extreme Tweaker](#-ai-extreme-tweaker)
 - [🛠 Advanced](#-advanced)
 - [📺 Monitor](#-monitor)
 - [⏫ Boot](#-boot)
 - [🧰 Tool](#-tool)
 - [❌ Exit](#-exit)
+
+---
 
 ## ⚙️ Main
